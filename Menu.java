@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Menu {
     public static void main(String[] args) {
         menu();
-
     }
 
     public static void menu() {
