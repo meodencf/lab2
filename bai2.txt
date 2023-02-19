@@ -20,11 +20,11 @@ public class BaiTap2 {
                     System.out.println("PT vô s? nghi?m");
                           }
                     else {
-                            System.out.println("Phýõng tr?nh vô nghi?m");
+                            System.out.println("phýõng tr?nh vô nghi?m");
                          } 
                          }        
                      else {
-                     System.out.println("nghi?m c?a pt là:" + "x =" + (-b/c));
+                     System.out.println("nghi?p phýõng tr?nh là:" + "x =" + (-b/c));
                      }
        }
         else {
